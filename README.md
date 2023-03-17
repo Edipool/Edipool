@@ -18,7 +18,7 @@ Courses | Start Date - End Date |
 [WEB Parsing in Python ](https://stepik.org/course/104774/promo) | 06.2022 - 08.2022 |
 [StartML](https://karpov.courses/ml-start) | 09.2022 - 04.2023 |
 [ML Engineer Simulator ](https://karpov.courses/simulator-ml) | 03.2023 - At the present time |
-[Docker from scratch ](https://karpov.courses/docker) | 03.2023 -03.2023 |
+[Docker from scratch ](https://karpov.courses/docker) | 03.2023 - 03.2023 |
 [SQL Simulator ](https://karpov.courses/simulator-sql) | 02.2023 - At the present time |
 
 
